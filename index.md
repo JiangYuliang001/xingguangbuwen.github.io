@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>钟芳祺</h1>
+      <p><b>大学本科在读</b></p>
+      <p><b>浙江万里学院</b></p>
+      <p><b>邮箱：2601295723@qq.com</b></p>
+      <p><b>地址：浙江 邮编：311602</b></p>
+    </td>
+    <td width="25%">
+      <img src="kn.jpg" width="100%">  
+    </td>
+  </tr>
+</table>
+### ·基本信息
+#### 姓名：钟芳祺
+#### 性别：女
+#### 学历：大学本科在读
+#### 学校：浙江万里学院
+#### 民族：畲族
+#### 电话：19883006487
+#### 籍贯：建德
 
-You can use the [editor on GitHub](https://github.com/xingguobuwen/xingguobuwen.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### ·爱好
+#### like：柯南、篮球、羽毛球、计算机、滑雪、看剧
+#### dislike：打游戏、数学、历史
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xingguobuwen/xingguobuwen.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### ·学习经历
+#### 小学：钦堂中心小学、桐庐实验小学、乾潭第二小学
+#### 初中：建德市新世纪实验学校
+#### 高中：浙江省严州中学
+#### 大学：浙江万里学院
