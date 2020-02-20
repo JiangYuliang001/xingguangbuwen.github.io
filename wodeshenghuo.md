@@ -1,4 +1,4 @@
 ##❤我的寒假生活❤
 ###锻炼篇：
 #### 乾潭镇的绿道一年四季都非常漂亮，早晚也各有风采
-   <img src="c3966ba97e13ddac3e173c46e1cecfe.jpg" width="40%"> 
+   <img src="c3966ba97e13ddac3e173c46e1cecfe.jpg" width="40%" > 
